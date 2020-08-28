@@ -28,7 +28,8 @@
       {
         "ts": "never"
       }
-    ]
+    ],
+    "endOfLine":"auto"
   },
   "settings": {
     "import/resolver": {
